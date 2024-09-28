@@ -19,39 +19,39 @@ I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and pr
 
 ### ⚙️ Tech Stack & Skills
 
-- **Languages**:
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **Frameworks**: 
-  - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-  - ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-- **DevOps**: 
-  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-  - ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-- **Cloud & Hosting**: 
-  - Hosting in **Tehran** for gaming, as well as **Worldstream**, **OVH**, and **Asiatech**.
-- **Networking**:
-  - ![MikroTik](https://img.shields.io/badge/-MikroTik-FF8000?style=flat-square&logo=mikrotik&logoColor=white)
-  - ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-  - **MTCNA** certified
-  - **VPN Protocols**: WireGuard, OpenVPN, V2Ray
-  - Firewalls, CCNA-level expertise
-- **Operating Systems**: 
-  - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-  - ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-  - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-  - ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-- **Management**:
-  - Expert in **Management** and **Project Management**
-- **Databases**: 
-  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-- **Music Production**: FL Studio 🎵
-- **Other**: Virtual Machine hosting, FiveM modding.
+<div align="center">
+<code><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"></code>
+<code><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></code>
+<code><img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"></code>
+<code><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"></code>
+<code><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"></code>
+<br/>
+<br/>  
+<code><img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"></code>
+<code><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"></code>
+<code><img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"></code>
+<code><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json"></code>
+<br/>
+<br/>
+<code><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"></code>
+<code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></code>
+<code><img src="https://img.shields.io/badge/ruby-3776AB.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"></code>
+<code><img src="https://img.shields.io/badge/rust-3776AB.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust"></code>
+</div>
+
+---
+
+### 🎨 Design & Networking
+
+<div align="center">
+<code><img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" alt="photoshop"></code>
+<code><img src="https://img.shields.io/badge/AdobeXD-FF61F6.svg?style=for-the-badge&logo=AdobeXD&logoColor=white" alt="adobexd"></code>
+<code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"></code>
+<code><img src="https://img.shields.io/badge/Kali Linux-FCC624?style=for-the-badge&logo=kalilinux&logoColor=black" alt="kalilinux"></code>
+<code><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"></code>
+<code><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"></code>
+<code><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"></code>
+</div>
 
 ---
 
