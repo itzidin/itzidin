@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Idin Mohahed!
 
-### Network Engineer | Programmer | Gamer | Entrepreneur | Music Producer | Rapper | Project Manager
+### Network Engineer | Programmer | Gamer | Entrepreneur | Music Producer | Rapper | Project Manager | Security Specialist
 
 I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and programmer from Iran, balancing multiple businesses, coding projects, and creative ventures. I love building things from scratch, whether it's a business or a piece of software, and I’m always down for new challenges in tech or music production.
 
@@ -39,20 +39,21 @@ I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and pr
 
 ---
 
-### 🎨 Networking & Security
+### 🎨 Networking, Cybersecurity & Security Skills
 
 <div align="center">
 <code><img src="https://img.shields.io/badge/Networking%20-%23FF8000.svg?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"></code>
 <code><img src="https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco"></code>
-<code><img src="https://img.shields.io/badge/VPN%20Protocols-%23232323.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="wireguard"></code>
+<code><img src="https://img.shields.io/badge/VPN%20Protocols-%23232323.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="vpn protocols"></code>
 <code><img src="https://img.shields.io/badge/WireGuard-%23f05133.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="wireguard"></code>
 <code><img src="https://img.shields.io/badge/OpenVPN-%2335495e.svg?style=for-the-badge&logo=openvpn&logoColor=white" alt="openvpn"></code>
 <code><img src="https://img.shields.io/badge/V2Ray-%23FE0000.svg?style=for-the-badge&logoColor=white" alt="v2ray"></code>
+<code><img src="https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="cybersecurity"></code>
+<code><img src="https://img.shields.io/badge/Network%20Security-%231C1C1C.svg?style=for-the-badge&logo=networksecurity&logoColor=white" alt="network security"></code>
 <br/><br/>
-<code><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"></code>
-<code><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kalilinux"></code>
-<code><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"></code>
-<code><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"></code>
+<code><img src="https://img.shields.io/badge/Red%20Team%20-%23FF0000.svg?style=for-the-badge&logo=hackerone&logoColor=white" alt="red team"></code>
+<code><img src="https://img.shields.io/badge/Blue%20Team%20-%23267BFF.svg?style=for-the-badge&logo=hackthebox&logoColor=white" alt="blue team"></code>
+<code><img src="https://img.shields.io/badge/Network%20Passive%20and%20Active-%23232323.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="network passive and active"></code>
 </div>
 
 ---
