@@ -1,10 +1,8 @@
-# 👋 Hey, I'm idin Movahhed!
+# 👋 Hey, I'm Idin Mohahed!
 
-### Network Engineer | Programmer | Gamer | Entrepreneur | Music Producer | Rapper
+### Network Engineer | Programmer | Gamer | Entrepreneur | Music Producer | Rapper | Project Manager
 
 I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and programmer from Iran, balancing multiple businesses, coding projects, and creative ventures. I love building things from scratch, whether it's a business or a piece of software, and I’m always down for new challenges in tech or music production.
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/932027654234849330)](https://discord.com/users/932027654234849330)
 
 ---
 
@@ -15,7 +13,12 @@ I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and pr
 
 ---
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/932027654234849330)](https://discord.com/users/932027654234849330)
+
+---
+
 ### ⚙️ Tech Stack & Skills
+
 - **Languages**:
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -41,12 +44,15 @@ I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and pr
   - ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
   - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
   - ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+- **Management**:
+  - Expert in **Management** and **Project Management**
 - **Databases**: 
   - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 - **Music Production**: FL Studio 🎵
 - **Other**: Virtual Machine hosting, FiveM modding.
+
 ---
 
 ### 🎮 Gaming & Personal Interests
@@ -71,9 +77,9 @@ I plan to build a network services company offering end-to-end solutions for ser
 ---
 
 ### 📫 Get in touch
-- **Telegram**: https://t.me/itzidin
-- **Email**: itzidin@duck.com
-- **SoundCloud**: https://soundcloud.com/idinmov
+- **Telegram**: [itzidin](https://t.me/itzidin)
+- **Email**: [itzidin@duck.com](mailto:itzidin@duck.com)
+- **SoundCloud**: [Idin Mohahed on SoundCloud](https://soundcloud.com/idinmov)
 
 ---
 
