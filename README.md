@@ -17,43 +17,61 @@ I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and pr
 
 ---
 
-### ⚙️ Tech Stack & Skills
+## 🛠 Tech Stack & Skills
 
-<div align="center">
-<code><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"></code>
-<code><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></code>
-<code><img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"></code>
-<code><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"></code>
-<code><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"></code>
-<code><img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"></code>
-<code><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"></code>
-<code><img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"></code>
-<code><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json"></code>
-<code><img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"></code>
-<code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></code>
-<code><img src="https://img.shields.io/badge/ruby-3776AB.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"></code>
-<code><img src="https://img.shields.io/badge/rust-3776AB.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust"></code>
-<code><img src="https://img.shields.io/badge/Networking%20-%23FF8000.svg?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"></code>
-<code><img src="https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco"></code>
-<code><img src="https://img.shields.io/badge/VPN%20Protocols-%23232323.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="vpn protocols"></code>
-<code><img src="https://img.shields.io/badge/WireGuard-%23f05133.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="wireguard"></code>
-<code><img src="https://img.shields.io/badge/OpenVPN-%2335495e.svg?style=for-the-badge&logo=openvpn&logoColor=white" alt="openvpn"></code>
-<code><img src="https://img.shields.io/badge/V2Ray-%23FE0000.svg?style=for-the-badge&logoColor=white" alt="v2ray"></code>
-<code><img src="https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="cybersecurity"></code>
-<code><img src="https://img.shields.io/badge/Network%20Security-%231C1C1C.svg?style=for-the-badge&logo=networksecurity&logoColor=white" alt="network security"></code>
-<code><img src="https://img.shields.io/badge/Red%20Team%20-%23FF0000.svg?style=for-the-badge&logo=hackerone&logoColor=white" alt="red team"></code>
-<code><img src="https://img.shields.io/badge/Blue%20Team%20-%23267BFF.svg?style=for-the-badge&logo=hackthebox&logoColor=white" alt="blue team"></code>
-<code><img src="https://img.shields.io/badge/Network%20Passive%20and%20Active-%23232323.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="network passive and active"></code>
-<code><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"></code>
-<code><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kali linux"></code>
-<code><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"></code>
-<code><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"></code>
-<code><img src="https://img.shields.io/badge/Project Management-%23FF8000.svg?style=for-the-badge&logo=project&logoColor=white" alt="project management"></code>
-</div>
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+</p>
+
+### Frameworks & Databases
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white" alt="OVH">
+</p>
+
+### Networking & Security
+<p>
+  <img src="https://img.shields.io/badge/MikroTik-FF8000?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/Firewall-000000?style=for-the-badge&logo=firewall&logoColor=white" alt="Firewall">
+  <img src="https://img.shields.io/badge/WireGuard-881177?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard">
+  <img src="https://img.shields.io/badge/OpenVPN-FF6B00?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN">
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/Red_Team-FF0000?style=for-the-badge&logo=hackerone&logoColor=white" alt="Red Team">
+  <img src="https://img.shields.io/badge/Blue_Team-267BFF?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Blue Team">
+</p>
+
+### Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+</p>
 
 ---
 
-### 🎮 Gaming & Personal Interests
+## 🎮 Gaming & Personal Interests
 - **PC Specs**:
   - Intel i7-12700K
   - 32GB DDR5 RAM
@@ -69,12 +87,12 @@ I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and pr
 
 ---
 
-### 🚀 Future Plans
+## 🚀 Future Plans
 I plan to build a network services company offering end-to-end solutions for server management, network security, and more. Plus, I'm on track to create 5-10 companies under a holding structure in the near future.
 
 ---
 
-### 📫 Get in touch
+## 📫 Get in touch
 - **Telegram**: [itzidin](https://t.me/itzidin)
 - **Email**: [itzidin@duck.com](mailto:itzidin@duck.com)
 - **SoundCloud**: [Idin Mohahed on SoundCloud](https://soundcloud.com/idinmov)
