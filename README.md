@@ -4,6 +4,8 @@
 
 I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and programmer from Iran, balancing multiple businesses, coding projects, and creative ventures. I love building things from scratch, whether it's a business or a piece of software, and I’m always down for new challenges in tech or music production.
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/932027654234849330)](https://discord.com/users/932027654234849330)
+
 ---
 
 ### 💼 Current Ventures
