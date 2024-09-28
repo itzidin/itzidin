@@ -40,25 +40,30 @@ I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and pr
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
-### DevOps & Cloud
+### DevOps, Cloud & Hosting
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Worldstream-232F3E?style=for-the-badge&logo=worldstream&logoColor=white" alt="Worldstream">
   <img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white" alt="OVH">
+  <img src="https://img.shields.io/badge/Asiatech-FF4500?style=for-the-badge&logo=asiatech&logoColor=white" alt="Asiatech">
 </p>
 
 ### Networking & Security
 <p>
   <img src="https://img.shields.io/badge/MikroTik-FF8000?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
-  <img src="https://img.shields.io/badge/Firewall-000000?style=for-the-badge&logo=firewall&logoColor=white" alt="Firewall">
+  <img src="https://img.shields.io/badge/VPN%20Protocols-%23232323.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="vpn protocols">
   <img src="https://img.shields.io/badge/WireGuard-881177?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard">
   <img src="https://img.shields.io/badge/OpenVPN-FF6B00?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN">
+  <img src="https://img.shields.io/badge/V2Ray-EE0000?style=for-the-badge&logo=v2ray&logoColor=white" alt="V2Ray">
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/Network%20Security-%231C1C1C.svg?style=for-the-badge&logo=networksecurity&logoColor=white" alt="Network Security">
   <img src="https://img.shields.io/badge/Red_Team-FF0000?style=for-the-badge&logo=hackerone&logoColor=white" alt="Red Team">
   <img src="https://img.shields.io/badge/Blue_Team-267BFF?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Blue Team">
+  <img src="https://img.shields.io/badge/Network%20Passive%20and%20Active-%23232323.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="network passive and active">
 </p>
 
 ### Operating Systems
@@ -67,6 +72,11 @@ I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and pr
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+</p>
+
+### Management & Project Management
+<p>
+  <img src="https://img.shields.io/badge/Project Management-%23FF8000.svg?style=for-the-badge&logo=project&logoColor=white" alt="Project Management">
 </p>
 
 ---
