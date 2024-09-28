@@ -28,12 +28,10 @@ I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and pr
 <br/>
 <br/>  
 <code><img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"></code>
-<code><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"></code>
+<code><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"></code>
 <code><img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"></code>
 <code><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json"></code>
-<br/>
-<br/>
-<code><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"></code>
+<code><img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"></code>
 <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></code>
 <code><img src="https://img.shields.io/badge/ruby-3776AB.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"></code>
 <code><img src="https://img.shields.io/badge/rust-3776AB.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust"></code>
@@ -41,16 +39,28 @@ I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and pr
 
 ---
 
-### 🎨 Design & Networking
+### 🎨 Networking & Security
 
 <div align="center">
-<code><img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" alt="photoshop"></code>
-<code><img src="https://img.shields.io/badge/AdobeXD-FF61F6.svg?style=for-the-badge&logo=AdobeXD&logoColor=white" alt="adobexd"></code>
-<code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"></code>
-<code><img src="https://img.shields.io/badge/Kali Linux-FCC624?style=for-the-badge&logo=kalilinux&logoColor=black" alt="kalilinux"></code>
+<code><img src="https://img.shields.io/badge/Networking%20-%23FF8000.svg?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"></code>
+<code><img src="https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco"></code>
+<code><img src="https://img.shields.io/badge/VPN%20Protocols-%23232323.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="wireguard"></code>
+<code><img src="https://img.shields.io/badge/WireGuard-%23f05133.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="wireguard"></code>
+<code><img src="https://img.shields.io/badge/OpenVPN-%2335495e.svg?style=for-the-badge&logo=openvpn&logoColor=white" alt="openvpn"></code>
+<code><img src="https://img.shields.io/badge/V2Ray-%23FE0000.svg?style=for-the-badge&logoColor=white" alt="v2ray"></code>
+<br/><br/>
 <code><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"></code>
+<code><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kalilinux"></code>
 <code><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"></code>
 <code><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"></code>
+</div>
+
+---
+
+### 💼 Management & Project Management
+
+<div align="center">
+<code><img src="https://img.shields.io/badge/Project Management-%23FF8000.svg?style=for-the-badge&logo=project&logoColor=white" alt="project management"></code>
 </div>
 
 ---
