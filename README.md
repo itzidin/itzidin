@@ -1,15 +1,15 @@
 # 👋 Hey, I'm Idin Mohahed!
 
-### Network Engineer | Programmer | Gamer | Entrepreneur | Music Producer | Rapper | Project Manager | Security Specialist
+### Network Engineer | Programmer | Entrepreneur | Music Producer | Rapper | Project Manager | Security Specialist
 
-I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and programmer from Iran, balancing multiple businesses, coding projects, and creative ventures. I love building things from scratch, whether it's a business or a piece of software, and I’m always down for new challenges in tech or music production.
+I'm a 17-year-old (or 12 if you vibe with it 😎) network engineer and programmer from Iran, juggling multiple businesses, coding projects, and creative endeavors. I thrive on building things from scratch—whether it's a business, a piece of software, or a new track. I'm always open to fresh challenges, whether they're in tech or music production.
 
 ---
 
 ### 💼 Current Ventures
-- **CTO of Goodarz Gorgan**: Leading the technical development of this international transportation company.
-- **VPN Service**: Running a VPN service for privacy and freedom in my country.
-- **Server Hosting**: Hosting VMs and dedicated servers for game enthusiasts, using cloud hosting in Tehran, as well as **Worldstream**, **OVH**, and **Asiatech**.
+- **CTO of Goodarz Gorgan**: Spearheading the technical innovation at this international transportation company.
+- **VPN Service**: Running a VPN service to promote privacy and freedom in Iran.
+- **Server Hosting**: Offering VMs and dedicated servers for gamers, using cloud infrastructure in Tehran, **Worldstream**, **OVH**, and **Asiatech**.
 
 ---
 
