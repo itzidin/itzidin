@@ -36,13 +36,17 @@ I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and pr
   - **MTCNA** certified
   - **VPN Protocols**: WireGuard, OpenVPN, V2Ray
   - Firewalls, CCNA-level expertise
+- **Operating Systems**: 
+  - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+  - ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+  - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+  - ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 - **Databases**: 
   - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 - **Music Production**: FL Studio 🎵
 - **Other**: Virtual Machine hosting, FiveM modding.
-
 ---
 
 ### 🎮 Gaming & Personal Interests
