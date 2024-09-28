@@ -68,7 +68,7 @@ I plan to build a network services company offering end-to-end solutions for ser
 
 ### 📫 Get in touch
 - **Telegram**: https://t.me/itzidin
-- **Email**: idin@duck.com
+- **Email**: itzidin@duck.com
 - **SoundCloud**: https://soundcloud.com/idinmov
 
 ---
