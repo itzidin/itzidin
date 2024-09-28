@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Idin Mohahed!
+# 👋 Hey, I'm idin Movahhed!
 
 ### Network Engineer | Programmer | Gamer | Entrepreneur | Music Producer | Rapper | Project Manager | Security Specialist
 
