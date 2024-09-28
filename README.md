@@ -105,7 +105,7 @@ I plan to build a network services company offering end-to-end solutions for ser
 ## 📫 Get in touch
 - **Telegram**: [itzidin](https://t.me/itzidin)
 - **Email**: [itzidin@duck.com](mailto:itzidin@duck.com)
-- **SoundCloud**: [Idin Mohahed on SoundCloud](https://soundcloud.com/idinmov)
+- **SoundCloud**: (https://soundcloud.com/idinmov)
 
 ---
 
