@@ -91,6 +91,8 @@ I'm a 17-year-old (or 12 depending on how you roll 😎) network engineer and pr
   - Minecraft
   - FiveM
   - DDRaceNetwork
+  - Fortnite
+  - For Honor
   - And any other cool games out there
 - **Music Production**: I create melodic trap, R&B, and rap music. I compose melodies, write my own lyrics, and I'm into drill beats too.
 - **Rapping**: I rap my own tracks, blending unique flows and lyrical depth into my music.
