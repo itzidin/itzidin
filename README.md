@@ -112,9 +112,3 @@ I plan to build a network services company offering end-to-end solutions for ser
 ---
 
 _"Work hard, but chill harder."_ 👑
-
-- **SoundCloud**: https://soundcloud.com/idinmov
-
----
-
-_"Work hard, but chill harder."_ 👑
