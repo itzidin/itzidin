@@ -104,7 +104,7 @@ I’m an 18-year-old (or 12 depending on how you roll 😎) network engineer and
     <tr>
       <td align="center">
         <a href="#">
-          <img src="https://img.shields.io/badge/PC%20Specs-Intel%20i7--12700K-FF8000?style=for-the-badge&logo=intel&logoColor=white" alt="PC Specs">
+          <img src="https://img.shields.io/badge/PC%20Specs-i7--12700K%20|%2032GB%20DDR5%20|%20NVIDIA%204060Ti-FF8000?style=for-the-badge&logo=intel&logoColor=white" alt="PC Specs">
         </a>
       </td>
       <td align="center">
