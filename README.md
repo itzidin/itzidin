@@ -1,7 +1,7 @@
 # 👋 Hey, I'm **Idin Movahhed**!
 
 <div align="center">
-  <img src="[https://via.placeholder.com/150](https://avatars.githubusercontent.com/u/151734554?v=4)" alt="Profile Picture" width="150" style="border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="https://avatars.githubusercontent.com/u/151734554?v=4" alt="Profile Picture" width="150" style="border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 </div>
 
 ### 🌟 Network Engineer | Programmer | Gamer | Entrepreneur | Music Producer | Rapper | Project Manager | Security Specialist
