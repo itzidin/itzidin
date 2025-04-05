@@ -1,12 +1,10 @@
-# 👋 Hey, I'm **Idin Movahhed**!
+# 👋 Hey, I'm **Idin**!
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/151734554?v=4" alt="Profile Picture" width="150" style="border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 </div>
 
 ### 🌟 Network Engineer | Programmer | Gamer | Entrepreneur | Music Producer | Rapper | Project Manager | Security Specialist
-
-I’m an 18-year-old (or 12 depending on how you roll 😎) network engineer and programmer from Iran, balancing multiple businesses, coding projects, and creative ventures. I love building things from scratch—whether it's a business or a piece of software—and I’m always down for new challenges in tech or music production.
 
 > **Website**: [itzidin.ir](https://itzidin.ir)
 
