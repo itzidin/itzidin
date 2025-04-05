@@ -1,40 +1,58 @@
 # 👋 Hey, I'm **Idin Movahhed**!
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" style="border-radius: 50%;">
+  <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" style="border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 </div>
 
 ### 🌟 Network Engineer | Programmer | Gamer | Entrepreneur | Music Producer | Rapper | Project Manager | Security Specialist
 
 I’m an 18-year-old (or 12 depending on how you roll 😎) network engineer and programmer from Iran, balancing multiple businesses, coding projects, and creative ventures. I love building things from scratch—whether it's a business or a piece of software—and I’m always down for new challenges in tech or music production.
 
+> **Website**: [itzidin.ir](https://itzidin.ir)
+
 ---
 
 ## 🏆 **Current Ventures**
 
-| **Venture**                  | **Description**                                                                 |
-|------------------------------|---------------------------------------------------------------------------------|
-| **CTO of Goodarz Gorgan**    | Leading the technical development of this international transportation company. |
-| **VPN Service**              | Running a privacy-focused VPN service for freedom in my country.               |
-| **Server Hosting**           | Hosting VMs and dedicated servers for gamers using cloud hosting in Tehran, as well as **Worldstream**, **OVH**, and **Asiatech**. |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://goodarzgorgan.com" target="_blank">
+          <img src="https://img.shields.io/badge/CTO%20of%20Goodarz%20Gorgan-FF8000?style=for-the-badge&logo=transportation&logoColor=white" alt="Goodarz Gorgan">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/VPN%20Service-0078D6?style=for-the-badge&logo=privacy&logoColor=white" alt="VPN Service">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Server%20Hosting-336791?style=for-the-badge&logo=server&logoColor=white" alt="Server Hosting">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🌐 **Tech Stack & Skills**
 
 ### 🛠 **Programming Languages**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
 </p>
 
 ### 🧰 **Frameworks & Databases**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
@@ -44,7 +62,7 @@ I’m an 18-year-old (or 12 depending on how you roll 😎) network engineer and
 </p>
 
 ### 🚀 **DevOps, Cloud & Hosting**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
@@ -55,7 +73,7 @@ I’m an 18-year-old (or 12 depending on how you roll 😎) network engineer and
 </p>
 
 ### 🔒 **Networking & Security**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MikroTik-FF8000?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
   <img src="https://img.shields.io/badge/VPN%20Protocols-%23232323.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="vpn protocols">
@@ -70,38 +88,38 @@ I’m an 18-year-old (or 12 depending on how you roll 😎) network engineer and
 </p>
 
 ### 💻 **Operating Systems**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
 
-### 📊 **Management & Project Management**
-<p>
-  <img src="https://img.shields.io/badge/Project Management-%23FF8000.svg?style=for-the-badge&logo=project&logoColor=white" alt="Project Management">
-</p>
-
 ---
 
 ## 🎮 **Gaming & Personal Interests**
 
-- **PC Specs**:
-  - Intel i7-12700K
-  - 32GB DDR5 RAM
-  - NVIDIA 4060Ti
-
-- **Games**: 
-  - Dota 2
-  - Minecraft
-  - FiveM
-  - DDRaceNetwork
-  - Fortnite
-  - For Honor
-  - And any other cool games out there
-
-- **Music Production**: I create melodic trap, R&B, and rap music. I compose melodies, write my own lyrics, and I'm into drill beats too.
-- **Rapping**: I rap my own tracks, blending unique flows and lyrical depth into my music.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/PC%20Specs-Intel%20i7--12700K-FF8000?style=for-the-badge&logo=intel&logoColor=white" alt="PC Specs">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Games-Dota%202%20|%20Minecraft%20|%20Fortnite-FF0000?style=for-the-badge&logo=steam&logoColor=white" alt="Games">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Music%20Production-Melodic%20Trap%20|%20R&B%20|%20Rap-336791?style=for-the-badge&logo=music&logoColor=white" alt="Music Production">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -112,11 +130,27 @@ I plan to build a network services company offering end-to-end solutions for ser
 
 ## 📫 **Get in Touch**
 
-| **Platform**      | **Link**                                                                 |
-|--------------------|--------------------------------------------------------------------------|
-| **Telegram**       | [itzidin](https://t.me/itzidin)                                         |
-| **Email**          | [itzidin@duck.com](mailto:itzidin@duck.com)                             |
-| **SoundCloud**     | [idinmov](https://soundcloud.com/idinmov)                               |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://t.me/itzidin" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:itzidin@duck.com" target="_blank">
+          <img src="https://img.shields.io/badge/Email-DD0031?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://soundcloud.com/idinmov" target="_blank">
+          <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
