@@ -124,7 +124,23 @@
 ---
 
 ## 🚀 **Future Plans**
-I plan to build a network services company offering end-to-end solutions for server management, network security, and more. Plus, I'm on track to create 5–10 companies under a holding structure in the near future.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Network%20Services%20Company-End--to--End%20Solutions-FF8000?style=for-the-badge&logo=network&logoColor=white" alt="Network Services Company">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Create%205--10%20Companies-Holding%20Structure-0078D6?style=for-the-badge&logo=business&logoColor=white" alt="Create 5–10 Companies">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
