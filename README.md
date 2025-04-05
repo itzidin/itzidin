@@ -1,25 +1,28 @@
-# 👋 Hey, I'm idin Movahhed!
+# 👋 Hey, I'm **Idin Movahhed**!
 
-### Network Engineer | Programmer | Gamer | Entrepreneur | Music Producer | Rapper | Project Manager | Security Specialist
+<div align="center">
+  <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" style="border-radius: 50%;">
+</div>
 
-I'm a 18-year-old (or 12 depending on how you roll 😎) network engineer and programmer from Iran, balancing multiple businesses, coding projects, and creative ventures. I love building things from scratch, whether it's a business or a piece of software, and I’m always down for new challenges in tech or music production.
+### 🌟 Network Engineer | Programmer | Gamer | Entrepreneur | Music Producer | Rapper | Project Manager | Security Specialist
 
----
-
-### 💼 Current Ventures
-- **CTO of Goodarz Gorgan**: Leading the technical development of this international transportation company.
-- **VPN Service**: Running a VPN service for privacy and freedom in my country.
-- **Server Hosting**: Hosting VMs and dedicated servers for game enthusiasts, using cloud hosting in Tehran, as well as **Worldstream**, **OVH**, and **Asiatech**.
+I’m an 18-year-old (or 12 depending on how you roll 😎) network engineer and programmer from Iran, balancing multiple businesses, coding projects, and creative ventures. I love building things from scratch—whether it's a business or a piece of software—and I’m always down for new challenges in tech or music production.
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/932027654234849330)](https://discord.com/users/932027654234849330)
+## 🏆 **Current Ventures**
+
+| **Venture**                  | **Description**                                                                 |
+|------------------------------|---------------------------------------------------------------------------------|
+| **CTO of Goodarz Gorgan**    | Leading the technical development of this international transportation company. |
+| **VPN Service**              | Running a privacy-focused VPN service for freedom in my country.               |
+| **Server Hosting**           | Hosting VMs and dedicated servers for gamers using cloud hosting in Tehran, as well as **Worldstream**, **OVH**, and **Asiatech**. |
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🌐 **Tech Stack & Skills**
 
-### Programming Languages
+### 🛠 **Programming Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -30,7 +33,7 @@ I'm a 18-year-old (or 12 depending on how you roll 😎) network engineer and pr
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
 </p>
 
-### Frameworks & Databases
+### 🧰 **Frameworks & Databases**
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
@@ -40,7 +43,7 @@ I'm a 18-year-old (or 12 depending on how you roll 😎) network engineer and pr
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
-### DevOps, Cloud & Hosting
+### 🚀 **DevOps, Cloud & Hosting**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
@@ -51,7 +54,7 @@ I'm a 18-year-old (or 12 depending on how you roll 😎) network engineer and pr
   <img src="https://img.shields.io/badge/Asiatech-FF4500?style=for-the-badge&logo=asiatech&logoColor=white" alt="Asiatech">
 </p>
 
-### Networking & Security
+### 🔒 **Networking & Security**
 <p>
   <img src="https://img.shields.io/badge/MikroTik-FF8000?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
@@ -66,7 +69,7 @@ I'm a 18-year-old (or 12 depending on how you roll 😎) network engineer and pr
   <img src="https://img.shields.io/badge/Network%20Passive%20and%20Active-%23232323.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="network passive and active">
 </p>
 
-### Operating Systems
+### 💻 **Operating Systems**
 <p>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
@@ -74,18 +77,20 @@ I'm a 18-year-old (or 12 depending on how you roll 😎) network engineer and pr
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
 
-### Management & Project Management
+### 📊 **Management & Project Management**
 <p>
   <img src="https://img.shields.io/badge/Project Management-%23FF8000.svg?style=for-the-badge&logo=project&logoColor=white" alt="Project Management">
 </p>
 
 ---
 
-## 🎮 Gaming & Personal Interests
+## 🎮 **Gaming & Personal Interests**
+
 - **PC Specs**:
   - Intel i7-12700K
   - 32GB DDR5 RAM
   - NVIDIA 4060Ti
+
 - **Games**: 
   - Dota 2
   - Minecraft
@@ -94,20 +99,24 @@ I'm a 18-year-old (or 12 depending on how you roll 😎) network engineer and pr
   - Fortnite
   - For Honor
   - And any other cool games out there
+
 - **Music Production**: I create melodic trap, R&B, and rap music. I compose melodies, write my own lyrics, and I'm into drill beats too.
 - **Rapping**: I rap my own tracks, blending unique flows and lyrical depth into my music.
 
 ---
 
-## 🚀 Future Plans
-I plan to build a network services company offering end-to-end solutions for server management, network security, and more. Plus, I'm on track to create 5-10 companies under a holding structure in the near future.
+## 🚀 **Future Plans**
+I plan to build a network services company offering end-to-end solutions for server management, network security, and more. Plus, I'm on track to create 5–10 companies under a holding structure in the near future.
 
 ---
 
-## 📫 Get in touch
-- **Telegram**: [itzidin](https://t.me/itzidin)
-- **Email**: [itzidin@duck.com](mailto:itzidin@duck.com)
-- **SoundCloud**: https://soundcloud.com/idinmov
+## 📫 **Get in Touch**
+
+| **Platform**      | **Link**                                                                 |
+|--------------------|--------------------------------------------------------------------------|
+| **Telegram**       | [itzidin](https://t.me/itzidin)                                         |
+| **Email**          | [itzidin@duck.com](mailto:itzidin@duck.com)                             |
+| **SoundCloud**     | [idinmov](https://soundcloud.com/idinmov)                               |
 
 ---
 
